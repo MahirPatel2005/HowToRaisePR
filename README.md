@@ -1,4 +1,3 @@
-# Pull Request new file
+# HowToRaisePR
 
 ## Changes for first Pull Request
-Coding Gita
